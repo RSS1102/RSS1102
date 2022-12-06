@@ -18,9 +18,9 @@
 ---
 ### The projects I have been working on recently.
 1. [shuimo-ui](https://github.com/RSS1102/shuimo-ui)
-2. [blogs-nuxt3](https://github.com/RSS1102/blogs-nuxt3)
+2. [blogs-vue3](https://github.com/RSS1102/blogs-vue3)
 3. [blogs-nest](https://github.com/RSS1102/blogs-nest)
-4. [myweb-manage-react](https://github.com/RSS1102/myweb-manage-react)
+4. [blogs-react](https://github.com/RSS1102/blogs-react)
 
 ---
 
