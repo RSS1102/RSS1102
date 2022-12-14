@@ -16,11 +16,12 @@
 <img width="450" src="https://github-readme-stats.vercel.app/api?username=RSS1102&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=e2a7a2&show_owner=true" />
 
 ---
-### The projects I have been working on recently.
-1. [shuimo-ui](https://github.com/RSS1102/shuimo-ui)
-2. [blogs-vue3](https://github.com/RSS1102/blogs-vue3)
-3. [blogs-nest](https://github.com/RSS1102/blogs-nest)
-4. [blogs-react](https://github.com/RSS1102/blogs-react)
+### The projects I have been working on recently[plan].
+1. [electron-markdown-notepad](https://github.com/RSS1102/electron-markdown-notepad)
+2. [shuimo-ui](https://github.com/RSS1102/shuimo-ui)
+3. ~~[blogs-vue3](https://github.com/RSS1102/blogs-vue3)~~ [shelve]
+4. ~~[blogs-nest](https://github.com/RSS1102/blogs-nest)~~[shelve]
+5. ~~[blogs-react](https://github.com/RSS1102/blogs-react)~~[shelve]
 
 ---
 
