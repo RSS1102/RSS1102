@@ -18,7 +18,7 @@
 ---
 ### The projects I have been working on recently[plan].
 1. [electron-markdown-notepad](https://github.com/RSS1102/electron-markdown-notepad)
-2. [shuimo-ui](https://github.com/RSS1102/shuimo-ui)
+2. [shuimo-ui](https://github.com/janghood/shuimo-ui)
 3. ~~[blogs-vue3](https://github.com/RSS1102/blogs-vue3)~~ [shelve]
 4. ~~[blogs-nest](https://github.com/RSS1102/blogs-nest)~~[shelve]
 5. ~~[blogs-react](https://github.com/RSS1102/blogs-react)~~[shelve]
