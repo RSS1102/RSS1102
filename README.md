@@ -18,15 +18,11 @@
 ---
 ### The projects I have been working on recently[plan] :raising_hand: .
 1. [shuimo-ui](https://github.com/janghood/shuimo-ui)
-2. [react-component](https://github.com/RSS1102/react-component)
-3. [blogs-vue3](https://github.com/RSS1102/blogs-vue3)
-4. [blogs-go](https://github.com/RSS1102/blogs-go)
-5. [blogs-react](https://github.com/RSS1102/blogs-react)
-6. [electron-markdown-notepad](https://github.com/RSS1102/electron-markdown-notepad)
-
-
-### The plan has been completed :muscle: .
-1. [vue-dark-switch](https://github.com/dishait/vue-dark-switch)
+2. [musicbox](https://github.com/holy-two/musicbox)
+3. [electron-vite-react](https://github.com/electron-vite/electron-vite-react)
+4. ...
+### More plans in GitHub(be-all) :muscle: .
+   [my Inplan](https://github.com/RSS1102/Inplan)
 
 ---
 
