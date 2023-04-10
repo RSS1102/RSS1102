@@ -5,7 +5,7 @@
   
 * A web worker.
 * I hope we can study together if we share the same vision.
-* **Vue**、**React**、**typescript**、**node.js(Express.js)、go**、and so on.
+* **Vue**、**React**、**typescript**、**node、go**、and so on.
 * QQ(Group ): <a href="https://jq.qq.com/?_wv=1027&k=S3dfwlRT">917722581</a>
 
 ---
@@ -17,9 +17,9 @@
 
 ---
 ### The projects I have been working on recently[plan] :raising_hand: .
-1. [shuimo-ui](https://github.com/janghood/shuimo-ui)
-2. [musicbox](https://github.com/holy-two/musicbox)
-3. [electron-vite-react](https://github.com/electron-vite/electron-vite-react)
+1. [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown)
+2. [holy-two/musicbox](https://github.com/holy-two/musicbox)
+3. [electron-vite/docs](https://github.com/electron-vite/docs)
 4. ...
 ### More plans in GitHub(be-all) :muscle: .
    [my Inplan](https://github.com/RSS1102/Inplan)
