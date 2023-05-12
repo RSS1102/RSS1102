@@ -19,7 +19,7 @@
 ### The projects I have been working on recently[plan] :raising_hand: .
 1. [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown)
 2. [holy-two/musicbox](https://github.com/holy-two/musicbox)
-3. [electron-vite/docs](https://github.com/electron-vite/docs)
+3. [tdesign-vue-next](https://github.com/Tencent/tdesign-vue-next)
 4. ...
 ### More plans in GitHub(be-all) :muscle: .
    [my Inplan](https://github.com/RSS1102/Inplan)
