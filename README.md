@@ -18,8 +18,9 @@
 ---
 ### The projects I have been working on recently[plan] :raising_hand: .
 1. [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown)
-2. [varletjs/varlet](https://github.com/varletjs/varlet)
-3. ...
+2. [tdesign-starter-cli](https://github.com/Tencent/tdesign-starter-cli)
+3. [varletjs/varlet](https://github.com/varletjs/varlet)
+4. ...
 ### More plans in GitHub(be-all) :muscle: .
    [my Inplan](https://github.com/RSS1102/Inplan)
 
