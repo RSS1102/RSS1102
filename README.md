@@ -1,5 +1,7 @@
 
-## 👋 I’m @阿菜 Cai &nbsp;&nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=RSS1102&label=Profile%20views&color=f69673&style=flat" alt="bongudth" />
+## 👋 I’m @阿菜 Cai
+<img src="https://komarev.com/ghpvc/?username=RSS1102&label=Profile%20views&color=f69673&style=flat" alt="bongudth" /> <a href="https://discord.gg/V67bQjcp" target="_blank"><img src="https://img.shields.io/discord/1183834575382786068.svg?logo=discord"/></a>
+
  
 Have fun in coding, Realize yourself in coding.
 
