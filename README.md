@@ -16,15 +16,13 @@ Have fun in coding, Realize yourself in coding.
 <img width="450" src="https://github-readme-stats.vercel.app/api?username=RSS1102&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=e2a7a2&show_owner=true" />
 
 ---
-### The projects I have been working on recently[plan] :raising_hand: .
+### The projects immediate plans :raising_hand: .
 1. [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown)
 2. [Tencent/tdesign-vue-next](https://github.com/Tencent/tdesign-vue-next)
 3. [Tencent/tdesign-vue](https://github.com/Tencent/tdesign-vue)
 4. [ErKeLost/wallhaven-desktop](https://github.com/ErKeLost/wallhaven-desktop)
 5. [farm-fe/farm](https://github.com/farm-fe)
 6.  ...
-### More plans in GitHub(be-all) :muscle: .
-   [my Inplan](https://github.com/RSS1102/Inplan)
 
 ---
 
