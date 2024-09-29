@@ -19,9 +19,10 @@ Have fun in coding, Realize yourself in coding.
 ### The projects I have been working on recently[plan] :raising_hand: .
 1. [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown)
 2. [Tencent/tdesign-vue-next](https://github.com/Tencent/tdesign-vue-next)
-3. [Tencent/tdesign-starter-cli](https://github.com/Tencent/tdesign-starter-cli)
-4. [varletjs/varlet](https://github.com/varletjs/varlet)
-5.  ...
+3. [Tencent/tdesign-vue](https://github.com/Tencent/tdesign-vue)
+4. [ErKeLost/wallhaven-desktop](https://github.com/ErKeLost/wallhaven-desktop)
+5. [farm-fe/farm](https://github.com/farm-fe)
+6.  ...
 ### More plans in GitHub(be-all) :muscle: .
    [my Inplan](https://github.com/RSS1102/Inplan)
 
