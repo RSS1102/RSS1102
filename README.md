@@ -1,6 +1,6 @@
 
 ## 👋 I’m @阿菜 Cai
-<img src="https://komarev.com/ghpvc/?username=RSS1102&label=Profile%20views&color=f69673&style=flat" alt="bongudth" /> <a href="https://discord.gg/xz9BJxKX" target="_blank"><img src="https://img.shields.io/discord/1183834575382786068.svg?logo=discord"/></a>
+<img src="https://komarev.com/ghpvc/?username=RSS1102&label=Profile%20views&color=f69673&style=flat" alt="bongudth" /> <a href="https://discord.gg/RhNg85HUMk" target="_blank"><img src="https://img.shields.io/discord/1183834575382786068.svg?logo=discord"/></a>
 
  
 Have fun in coding, Realize yourself in coding.
@@ -21,8 +21,7 @@ Have fun in coding, Realize yourself in coding.
 2. [Tencent/tdesign-vue-next](https://github.com/Tencent/tdesign-vue-next)
 3. [Tencent/tdesign-vue](https://github.com/Tencent/tdesign-vue)
 4. [ErKeLost/wallhaven-desktop](https://github.com/ErKeLost/wallhaven-desktop)
-5. [farm-fe/farm](https://github.com/farm-fe)
-6.  ...
+5.  ...
 
 ---
 
