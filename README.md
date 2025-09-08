@@ -22,7 +22,8 @@ Have fun in coding, Realize yourself in coding.
 3. [Tencent/tdesign-vue](https://github.com/Tencent/tdesign-vue)
 4. [Tencent/tdesign-react](https://github.com/Tencent/tdesign-react)
 5. [Tencent/tdesign](https://github.com/Tencent/tdesign)
-6.  ...
+6. [Tencent/tdesign-flutter](https://github.com/Tencent/tdesign-flutter)
+7.   ...
 
 ---
 
