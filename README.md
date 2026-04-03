@@ -7,8 +7,6 @@ Have fun in coding, Realize yourself in coding.
 
 ---
 * I hope we can study together if we share the same vision.
-* **Vue**、**React**、**Typescript**、**Node、Go**、and so on.
-* QQ(Group ): <a href="https://jq.qq.com/?_wv=1027&k=S3dfwlRT">917722581</a>
 
 <img align="right" width="350" src="https://pic.rmb.bdstatic.com/bjh/down/99b15364feac6f5cb587e8884b4361cc.gif" />
 
