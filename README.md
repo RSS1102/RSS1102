@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 - 💻 **Passionate Developer** - Have fun in coding, Realize yourself in coding
-- 🎯 **Open Source Contributor** - Contributing to Tencent's design system ecosystem
+- 🎯 **Open Source Contributor** - Contributing to TDesign system ecosystem
 - 🌱 **Continuous Learner** - Always exploring new technologies and best practices
 - 🤝 **Collaboration Enthusiast** - Hope we can study together if we share the same vision
 
