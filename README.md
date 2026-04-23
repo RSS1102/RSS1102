@@ -1,7 +1,6 @@
-# 👋 Hi there, I'm @阿菜 Cai
-<img src="https://komarev.com/ghpvc/?username=RSS1102&label=Profile%20views&color=f69673&style=flat" alt="bongudth" /> <a href="https://discord.gg/RhNg85HUMk" target="_blank"><img src="https://img.shields.io/discord/1183834575382786068.svg?logo=discord"/></a>
+# 👋 Hi there, I'm @阿菜 Cai 
 
- 
+<img src="https://komarev.com/ghpvc/?username=RSS1102&label=Profile%20views&color=f69673&style=flat" alt="bongudth" /> <a href="https://discord.gg/RhNg85HUMk" target="_blank"><img src="https://img.shields.io/discord/1183834575382786068.svg?logo=discord"/></a>
 
 ### 🚀 About Me
 - 💻 **Passionate Developer** - Have fun in coding, Realize yourself in coding
@@ -14,6 +13,9 @@
 ### 🎯 Current Focus Projects
 
 ### The projects immediate plans :raising_hand: .
+
+<img align="right" width="200" src="https://pic.rmb.bdstatic.com/bjh/down/99b15364feac6f5cb587e8884b4361cc.gif" />
+
 1. [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown)
 2. [Tencent/tdesign-vue-next](https://github.com/Tencent/tdesign-vue-next)
 3. [Tencent/tdesign-vue](https://github.com/Tencent/tdesign-vue)
